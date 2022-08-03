@@ -1,24 +1,23 @@
-# README
+# API COOP (Rails 7)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+a simple api/rest from ruby and rails for example 
 
 Things you may want to cover:
-
-* Ruby version
 
 * System dependencies
 
 * Configuration
 
-* Database creation
+* Database 
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
+create origine database with sqlite3
 
 * Deployment instructions
 
-* ...
+install 
+- ruby 3.1.2p20
+- Rails 7.0.3.1
+- Sqlite3
+
+gem install
+clone this project 
