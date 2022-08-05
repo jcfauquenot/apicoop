@@ -1,4 +1,5 @@
 # API COOP (Rails 7)
+(under construction)
 
 a simple api/rest from ruby and rails for example 
 
@@ -14,10 +15,7 @@ create origine database with sqlite3
 
 * Deployment instructions
 
-install 
+Install 
 - ruby 3.1.2p20
 - Rails 7.0.3.1
 - Sqlite3
-
-gem install
-clone this project 
